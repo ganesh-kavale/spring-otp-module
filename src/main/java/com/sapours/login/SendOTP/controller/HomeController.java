@@ -194,7 +194,7 @@ public class HomeController {
 			@RequestParam String sharedEmail, @RequestParam String readFile, @RequestParam String writeFile, HttpSession session) {
 		System.out.println(email);
 
-	
+		// System.out.println("email");
 
 		System.out.println(sharedEmail);
 
